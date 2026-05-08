@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Nyaa Sub Español",
+    "id": "nyaa.sub-espanol",
+    "version": "1.0.0",
+    "description": "Busca anime con subtítulos en español en Nyaa.si. Grupos: Kaizoku, Judas, SummerTime, Erai-raws y más.",
+    "author": "Said197812",
+    "language": "es",
+    "type": "js",
+    "entry": "nyaa-es.js"
+  }
+]
